@@ -1,20 +1,19 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:21:39.892644
+#+DATE: 2015-08-30 20:21:42.385442
 #+TITLE: 佛說道神足無極變化經
 #+PROPERTY: CBETA_ID T17n0816
 #+PROPERTY: ID KR6i0522
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 17, No. 816
 #+PROPERTY: VOL 17
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6i0522_T_000-0799c>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0522_T_001-0799c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.816[No.815]¶
-
- 《佛說道神足無極變化經》卷第一¶
+No. 816 [No. 815]¶
+《佛說道神足無極變化經》卷第一¶
 ¶
 西晉安息三藏安法欽譯¶
 
@@ -742,5 +741,5 @@ No.816[No.815]¶
 　習戒皆悉見。」
 #+END_VERSE
 」¶
-《佛說道神足無極變化經》卷第一¶
+《佛說道神足無極變化經》¶
 

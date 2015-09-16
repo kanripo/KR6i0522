@@ -1,19 +1,18 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:21:39.943086
+#+DATE: 2015-08-30 20:21:42.438041
 #+TITLE: 佛說道神足無極變化經
 #+PROPERTY: CBETA_ID T17n0816
 #+PROPERTY: ID KR6i0522
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 17, No. 816
 #+PROPERTY: VOL 17
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6i0522_T_000-0799c>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0522_T_003-0808b> ¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 3
 ¶
 ¶
-
- 《佛說道神足無極變化經》卷第三¶
+《佛說道神足無極變化經》卷第三¶
 ¶
 西晉安息三藏安法欽譯¶
 
@@ -618,8 +617,7 @@
 餘道及尼揵波惒而有所信知。彼，目連！無恐¶
 懼四天下世界，佛號無畏與如來、無所著、等¶
 正覺，於彼說法。其佛如來便往到佛樹下，到¶
-佛樹下已，七十二億那術魔往到其所。是諸¶
-魔，是時如來現如菩薩求道未逮薩芸若；是¶
+佛樹下已，七十二億那術魔往到其所。是諸魔，是時如來現如菩薩求道未逮薩芸若；是¶
 時魔便化作七十二億那術樹；是時菩薩亦¶
 化作七十二億那術菩薩，各坐一一所作樹¶
 下。是時魔恐怖而大驚怪，自念言：『何所為？』審¶
