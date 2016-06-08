@@ -6,7 +6,7 @@
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 17, No. 816
 #+PROPERTY: VOL 17
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS master
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6i0522_T_000-0799c>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0522_T_002-0804c> ¶¶
 #+PROPERTY: JUAN 2
@@ -345,7 +345,7 @@
 沒當復生何所？」
 
 時月天子語釋提桓因言：「拘¶
-翼！如幻師化作男子、若女人，從何所沒來生¶
+翼！如幻師化作男子、若女人，從何𠁅沒來生¶
 於此，於是沒復生何所？」
 
 釋提桓因復報天¶
