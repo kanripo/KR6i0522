@@ -1,19 +1,18 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:21:39.921514
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 9:51
 #+TITLE: 佛說道神足無極變化經
 #+PROPERTY: CBETA_ID T17n0816
 #+PROPERTY: ID KR6i0522
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 17, No. 816
 #+PROPERTY: VOL 17
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6i0522_T_000-0799c>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0522_T_002-0804c> ¶¶
 #+PROPERTY: JUAN 2
 ¶
 ¶
-
- 《佛說道神足無極變化經》卷第二¶
+《佛說道神足無極變化經》¶
 ¶
 西晉安息三藏安法欽譯¶
 
@@ -78,9 +77,9 @@
 　於是甚深法，
 　所行皆備具；¶
 　於億百千佛，
-　所作不懈倦。」
+　所作不懈倦。」」
 #+END_VERSE
-」¶
+¶
 
 爾時月天子問佛言：「云何菩薩得甚深之行？」¶
 
@@ -288,8 +287,7 @@
 
 答言：「是名為見¶
 佛。世尊！如來是名為得，不於色如是，如來於¶
-此無有能得計數者。」復問：「世尊！如是為見佛¶
-耶？」
+此無有能得計數者。」復問：「世尊！如是為見佛耶？」
 
 答言：「如是。拘翼！菩薩為逮得無所從生忍，¶
 於一切諸法界皆為等住，亦不離是法而見¶
